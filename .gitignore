@@ -1,5 +1,8 @@
 env/
+backend/.venv/
 **/__pycache__
 **/migrations/
 backend/.env
 .env
+db.sqlite3
+claude.md
